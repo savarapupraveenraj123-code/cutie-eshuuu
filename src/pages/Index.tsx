@@ -45,7 +45,7 @@ const Index = () => {
             💗
           </motion.div>
           <h1 className="font-display text-4xl md:text-5xl font-semibold text-gradient-love leading-tight">
-            Hey… I wanted to tell you something
+            Hey Esha… I wanted to tell you something
           </h1>
           <p className="mt-4 text-muted-foreground text-lg font-light">
             This might be a little unexpected, but here goes…
