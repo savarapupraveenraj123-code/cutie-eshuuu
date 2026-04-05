@@ -45,7 +45,7 @@ const Index = () => {
             💗
           </motion.div>
           <h1 className="font-display text-4xl md:text-5xl font-semibold text-gradient-love leading-tight">
-            Hey… I wanted to tell you something
+            Hey Esha… I wanted to tell you something
           </h1>
           <p className="mt-4 text-muted-foreground text-lg font-light">
             This might be a little unexpected, but here goes…
@@ -201,7 +201,7 @@ const Index = () => {
               beautiful — something worth hoping for. And I just wanted you to know.
             </p>
             <p className="mt-6 text-primary font-display text-xl italic">
-              — From someone who can't stop thinking about you 💗
+              — From someone who can't stop thinking about you, Esha 💗
             </p>
           </div>
         </motion.section>
