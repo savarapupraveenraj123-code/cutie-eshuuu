@@ -48,7 +48,7 @@ const Index = () => {
             Hey Esha… I wanted to tell you something
           </h1>
           <p className="mt-4 text-muted-foreground text-lg font-light">
-            This might be a little unexpected, but here goes…
+            We've been close friends for a while now… but I've been carrying something in my heart that I need to say.
           </p>
         </motion.section>
 
