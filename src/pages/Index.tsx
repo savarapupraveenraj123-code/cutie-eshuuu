@@ -201,7 +201,7 @@ const Index = () => {
               beautiful — something worth hoping for. And I just wanted you to know.
             </p>
             <p className="mt-6 text-primary font-display text-xl italic">
-              — From someone who can't stop thinking about you 💗
+              — From someone who can't stop thinking about you, Esha 💗
             </p>
           </div>
         </motion.section>
