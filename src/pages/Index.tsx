@@ -64,12 +64,14 @@ const Index = () => {
             How you make me feel ✨
           </h2>
           <p className="text-foreground/80 leading-relaxed text-lg font-light">
-            You make me feel things I can't quite explain. When you're around, everything feels
+            You've always been my closest friend — the one I turn to, the one who gets me. But somewhere
+            along the way, something changed. When you're around, everything feels
             <span className="text-primary font-medium"> brighter</span>. My heart beats a little faster,
-            my smile comes a little easier, and the world somehow feels more beautiful. You make me{" "}
+            my smile comes a little easier, and our late-night conversations mean more to me than you know.
+            You make me{" "}
             <span className="text-primary font-medium">happy</span>, you make me{" "}
             <span className="text-primary font-medium">excited</span>, and yes — you make me a little{" "}
-            <span className="text-accent font-medium">nervous</span> too. 🦋
+            <span className="text-accent font-medium">nervous</span> too… in a way a friend probably shouldn't. 🦋
           </p>
         </motion.section>
 
