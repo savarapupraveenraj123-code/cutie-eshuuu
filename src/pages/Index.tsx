@@ -199,8 +199,8 @@ const Index = () => {
               Maybe this is just a crush…
             </h2>
             <p className="text-foreground/80 text-lg font-light leading-relaxed">
-              But it feels like more than that. It feels like the beginning of something
-              beautiful — something worth hoping for. And I just wanted you to know.
+              But it feels like more than that. You're my best friend and I'd never want to lose that —
+              but I also can't keep pretending I don't feel something deeper. And I just wanted you to know, Esha.
             </p>
             <p className="mt-6 text-primary font-display text-xl italic">
               — From someone who can't stop thinking about you, Esha 💗
