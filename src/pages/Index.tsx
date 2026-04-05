@@ -48,7 +48,7 @@ const Index = () => {
             Hey Esha… I wanted to tell you something
           </h1>
           <p className="mt-4 text-muted-foreground text-lg font-light">
-            This might be a little unexpected, but here goes…
+            We've been close friends for a while now… but I've been carrying something in my heart that I need to say.
           </p>
         </motion.section>
 
@@ -64,12 +64,14 @@ const Index = () => {
             How you make me feel ✨
           </h2>
           <p className="text-foreground/80 leading-relaxed text-lg font-light">
-            You make me feel things I can't quite explain. When you're around, everything feels
+            You've always been my closest friend — the one I turn to, the one who gets me. But somewhere
+            along the way, something changed. When you're around, everything feels
             <span className="text-primary font-medium"> brighter</span>. My heart beats a little faster,
-            my smile comes a little easier, and the world somehow feels more beautiful. You make me{" "}
+            my smile comes a little easier, and our late-night conversations mean more to me than you know.
+            You make me{" "}
             <span className="text-primary font-medium">happy</span>, you make me{" "}
             <span className="text-primary font-medium">excited</span>, and yes — you make me a little{" "}
-            <span className="text-accent font-medium">nervous</span> too. 🦋
+            <span className="text-accent font-medium">nervous</span> too… in a way a friend probably shouldn't. 🦋
           </p>
         </motion.section>
 
@@ -197,8 +199,8 @@ const Index = () => {
               Maybe this is just a crush…
             </h2>
             <p className="text-foreground/80 text-lg font-light leading-relaxed">
-              But it feels like more than that. It feels like the beginning of something
-              beautiful — something worth hoping for. And I just wanted you to know.
+              But it feels like more than that. You're my best friend and I'd never want to lose that —
+              but I also can't keep pretending I don't feel something deeper. And I just wanted you to know, Esha.
             </p>
             <p className="mt-6 text-primary font-display text-xl italic">
               — From someone who can't stop thinking about you, Esha 💗
